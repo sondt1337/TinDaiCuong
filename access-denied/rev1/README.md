@@ -1,4 +1,4 @@
-# Writeups rev1.c - access denied CTF
+## Writeups baby.c - access denied CTF
 Ở bài này chúng ta sẽ lưu ý 1 chút là đọc kĩ code và phân tích để có thể viết lại được code và ra flag
 ## file rev1.c 
 ```csharp=1
